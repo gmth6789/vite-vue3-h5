@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/vite-vue3-h5 is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
@@ -15,11 +16,13 @@ gmth6789/vite-vue3-h5 is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/vite-vue3-h5 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
@@ -33,14 +36,15 @@ gmth6789/vite-vue3-h5 is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/vite-vue3-h5](https://github.com/gmth6789/vite-vue3-h5)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|46<br/>Tools used|11/09/23 <br/>Report generated|
+|48<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -185,9 +189,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (31)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (33)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (31)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (33)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -207,8 +211,10 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.1.0|06/28/22|buqiyuan |MIT|N/A|
 |[eslint-plugin-vue](https://www.npmjs.com/eslint-plugin-vue)|v9.1.1|06/28/22|buqiyuan |MIT|N/A|
 |[gh-pages](https://www.npmjs.com/gh-pages)|v4.0.0|06/28/22|buqiyuan |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|06/28/22|buqiyuan |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|06/28/22|buqiyuan |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|06/28/22|buqiyuan |MIT|N/A|
-|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|06/28/22|buqiyuan |MIT|N/A|
+|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|06/28/22|buqiyuan |MIT|[CVE-2023-26158](https://github.com/advisories/GHSA-mh8j-9jvh-gjf6) (High)|
 |[postcss](https://www.npmjs.com/postcss)|v8.3.6|06/28/22|buqiyuan |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[postcss-scss](https://www.npmjs.com/postcss-scss)|v4.0.4|06/28/22|buqiyuan |MIT|N/A|
 |[qs](https://www.npmjs.com/qs)|v6.11.0|09/05/21|bqy_fe |BSD-3-Clause|N/A|
@@ -226,4 +232,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
